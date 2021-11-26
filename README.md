@@ -1,8 +1,8 @@
 # webglserver
-Basic WebGL Server in Java Script
+Basic NodeJS Server in Java Script for Unity WebGL Aplication
 
-BASIC WEBGL MULTIPLAYER ONLINE CLIENT (HTML5)
-soon on unity asset store!
+WEBGL MULTIPLAYER Kit (HTML5)
+https://assetstore.unity.com/packages/tools/network/webgl-multiplayer-kit-145882
 
 this Server is powerful WebGL mmo template created special for multiplayer online games in html5. 
  Features: 
@@ -21,7 +21,7 @@ About unity WebGL client
 
  - Easy to deploy the game in any cloud service
 
-* Play now WebGL Game Demo: http://bit.ly/webglmmo
+* Play now WebGL Game Demo: https://webgltutorialserver.herokuapp.com/
 
 * Check out our online documentation for more information:
- https://drive.google.com/openid=1j2qdfMP917Kxkze8cqUwcO_06gtP75Sd
+ https://drive.google.com/file/d/1BGJz_ofINMLXO8uMa8lI7LXvnC1jLKjP/view
